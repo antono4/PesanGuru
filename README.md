@@ -1,2 +1,26 @@
-Last updated: 2026-09-17 04:47:10 WIB
-Last updated: 2026-09-17 05:17:48 WIB
+# PesanGuru
+
+
+
+## 📋 Overview
+
+This repository contains **108 files** and is built with the following technologies:
+
+Not detected
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Not detected
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-17 05:24:29 WIB*
